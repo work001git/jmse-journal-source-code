@@ -1,0 +1,35 @@
+export const papers = [
+  {
+    id: 1,
+    title: "Spatio-temporal Modeling of PM2.5 Concentrations in Urban Landscapes using Bayesian Hierarchical Models",
+    authors: "Sarah J. Miller, Robert Zhang, and Elena Petrov",
+    abstract: "This paper presents a novel Bayesian hierarchical framework for modeling fine particulate matter (PM2.5) concentrations. By integrating satellite-derived aerosol optical depth with ground-level monitoring data, we demonstrate improved predictive accuracy in regions with sparse monitoring networks.",
+    date: "June 2026",
+    doi: "10.5555/jese.2026.101",
+    volume: 12,
+    issue: 2,
+    pages: "124-145",
+  },
+  {
+    id: 2,
+    title: "The Economic Impact of Carbon Pricing on Agriculture: A Cross-Country Panel Data Analysis",
+    authors: "David Kumar and Aisha Al-Fayed",
+    abstract: "We examine the effects of carbon pricing mechanisms on agricultural productivity across 45 countries. Using a dynamic panel data approach, the study finds that while initial adjustment costs are significant, long-term efficiency gains and green technology adoption offset these costs.",
+    date: "May 2026",
+    doi: "10.5555/jese.2026.102",
+    volume: 12,
+    issue: 2,
+    pages: "146-168",
+  },
+  {
+    id: 3,
+    title: "AI-Driven Predictions of Biodiversity Loss in Tropical Rainforests",
+    authors: "Dr. Marcus Thorne and Sophie Williams",
+    abstract: "Leveraging deep learning architectures on multi-spectral satellite imagery, this research quantifies biodiversity loss with unprecedented resolution. The findings highlight the critical role of corridors in maintaining genetic diversity in fragmented habitats.",
+    date: "April 2026",
+    doi: "10.5555/jese.2026.103",
+    volume: 12,
+    issue: 1,
+    pages: "45-67",
+  }
+];
